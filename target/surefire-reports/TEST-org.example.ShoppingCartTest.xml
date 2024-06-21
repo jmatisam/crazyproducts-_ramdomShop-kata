@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="org.example.ShoppingCartTest" time="0.129" tests="20" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="org.example.ShoppingCartTest" time="0.121" tests="20" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="ES"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\ADMIN\AppData\Local\Temp\surefire9397995311161338121\surefirebooter2612613906250665182.jar C:\Users\ADMIN\AppData\Local\Temp\surefire9397995311161338121 2024-06-21T06-04-54_751-jvmRun1 surefire3538782583291090054tmp surefire_016120156158636537827tmp"/>
+    <property name="sun.java.command" value="C:\Users\ADMIN\AppData\Local\Temp\surefire9416573063267077442\surefirebooter10153172977547376272.jar C:\Users\ADMIN\AppData\Local\Temp\surefire9416573063267077442 2024-06-21T08-35-41_697-jvmRun1 surefire3897173936881333250tmp surefire_06940731822372783062tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\jmat_DEVOps\07_proyectos\crazyproducts-_ramdomShop-kata\target\test-classes;C:\jmat_DEVOps\07_proyectos\crazyproducts-_ramdomShop-kata\target\classes;C:\Users\ADMIN\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.1\junit-jupiter-api-5.9.1.jar;C:\Users\ADMIN\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\ADMIN\.m2\repository\org\junit\platform\junit-platform-commons\1.9.1\junit-platform-commons-1.9.1.jar;C:\Users\ADMIN\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\ADMIN\AppData\Local\Temp\surefire9397995311161338121\surefirebooter2612613906250665182.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\ADMIN\AppData\Local\Temp\surefire9416573063267077442\surefirebooter10153172977547376272.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.3+7-LTS-152"/>
@@ -58,21 +58,21 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="calculatePriceForMagicCards_red_MoreTenYears" classname="org.example.ShoppingCartTest" time="0.051"/>
-  <testcase name="calculatePriceForSpiderGoldStinky" classname="org.example.ShoppingCartTest" time="0.002"/>
-  <testcase name="calculatePriceForMagicCards_green__MoreTwentyYears" classname="org.example.ShoppingCartTest" time="0.002"/>
-  <testcase name="calculatePriceForMagicCards_Magic_BlackLotus" classname="org.example.ShoppingCartTest" time="0.003"/>
-  <testcase name="calculatePriceForFish_base" classname="org.example.ShoppingCartTest" time="0.001"/>
+  <testcase name="calculatePriceForMagicCards_red_MoreTenYears" classname="org.example.ShoppingCartTest" time="0.048"/>
+  <testcase name="calculatePriceForSpiderGoldStinky" classname="org.example.ShoppingCartTest" time="0.003"/>
+  <testcase name="calculatePriceForMagicCards_green__MoreTwentyYears" classname="org.example.ShoppingCartTest" time="0.001"/>
+  <testcase name="calculatePriceForMagicCards_Magic_BlackLotus" classname="org.example.ShoppingCartTest" time="0.001"/>
+  <testcase name="calculatePriceForFish_base" classname="org.example.ShoppingCartTest" time="0.002"/>
   <testcase name="calculatePriceForFish_blue" classname="org.example.ShoppingCartTest" time="0.001"/>
-  <testcase name="calculatePriceForFish_gold" classname="org.example.ShoppingCartTest" time="0.001"/>
+  <testcase name="calculatePriceForFish_gold" classname="org.example.ShoppingCartTest" time="0.002"/>
   <testcase name="calculatePriceForCheese" classname="org.example.ShoppingCartTest" time="0.001"/>
-  <testcase name="calculatePriceForMagicCards_blue_MoreTenYears" classname="org.example.ShoppingCartTest" time="0.003"/>
-  <testcase name="calculatePriceForSpiderGold" classname="org.example.ShoppingCartTest" time="0.002"/>
+  <testcase name="calculatePriceForMagicCards_blue_MoreTenYears" classname="org.example.ShoppingCartTest" time="0.001"/>
+  <testcase name="calculatePriceForSpiderGold" classname="org.example.ShoppingCartTest" time="0.001"/>
   <testcase name="calculatePriceForSpiderStinky" classname="org.example.ShoppingCartTest" time="0.001"/>
-  <testcase name="calculatePriceForMagicCards_green" classname="org.example.ShoppingCartTest" time="0.001"/>
+  <testcase name="calculatePriceForMagicCards_green" classname="org.example.ShoppingCartTest" time="0.002"/>
   <testcase name="calculatePriceForSpiderRedStinky" classname="org.example.ShoppingCartTest" time="0.001"/>
-  <testcase name="calculatePriceForMagicCards_black_MoreTwentyYears" classname="org.example.ShoppingCartTest" time="0"/>
-  <testcase name="calculatePriceForSpider" classname="org.example.ShoppingCartTest" time="0.002"/>
+  <testcase name="calculatePriceForMagicCards_black_MoreTwentyYears" classname="org.example.ShoppingCartTest" time="0.001"/>
+  <testcase name="calculatePriceForSpider" classname="org.example.ShoppingCartTest" time="0"/>
   <testcase name="calculatePriceForMagicCards_blue" classname="org.example.ShoppingCartTest" time="0"/>
   <testcase name="calculatePriceForWine" classname="org.example.ShoppingCartTest" time="0.002"/>
   <testcase name="calculatePriceForMagicCards_red" classname="org.example.ShoppingCartTest" time="0.001"/>
