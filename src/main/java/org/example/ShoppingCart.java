@@ -68,7 +68,6 @@ public class ShoppingCart {
                     }
                 }
                 case "red" -> {
-                    // Lógica para cartas rojas
                     if (product.getAge() != null && product.getAge() > 10) {
                         return BigDecimal.valueOf(1.75);
                     } else {
@@ -76,7 +75,6 @@ public class ShoppingCart {
                     }
                 }
                 case "green" -> {
-                    // Lógica para cartas verdes
                     if (product.getAge() != null && product.getAge() > 20) {
                         return BigDecimal.valueOf(4.4).multiply(BigDecimal.valueOf(1.2));
                     } else {
@@ -84,7 +82,6 @@ public class ShoppingCart {
                     }
                 }
                 case "black" -> {
-                    // Lógica para cartas negras
                     if (product.getAge() != null && product.getAge() > 20) {
                         return BigDecimal.valueOf(6.8).multiply(BigDecimal.valueOf(1.2));
                     } else {
@@ -92,7 +89,6 @@ public class ShoppingCart {
                     }
                 }
                 default -> {
-                    // Valor por defecto si el color no coincide
                     return BigDecimal.valueOf(2.0);
                 }
             
