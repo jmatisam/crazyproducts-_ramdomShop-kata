@@ -116,7 +116,7 @@ class ShoppingCartTest {
     void calculatePriceForFish_gold() {
         ShoppingCart shoppingCart = new ShoppingCart();
 
-        BigDecimal basePrice = new BigDecimal("1.0");
+        //BigDecimal basePrice = new BigDecimal("1.0");
         Product product = new Product(null, null, false, "gold", basePrice, "fish", null);
         shoppingCart.addProduct(product);
 

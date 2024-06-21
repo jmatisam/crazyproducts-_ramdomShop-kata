@@ -54,7 +54,7 @@ public class ShoppingCart {
         return product.getAge() != null;
     }
 
-   // @SuppressWarnings("deprecation")
+   
     private BigDecimal calculateSpiderPrice(Product product) {
         BigDecimal pricePerLeg = BigDecimal.valueOf(1.2);
         BigDecimal basePrice = BigDecimal.valueOf(product.getNumberOfLegs()).multiply(pricePerLeg);
