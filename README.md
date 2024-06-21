@@ -68,3 +68,11 @@ The following guides illustrate how to use some features concretely:
 * [Fernando Berzal - Refactoring.pdf-](https://elvex.ugr.es/decsai/java/pdf/8B-Refactoring.pdf)
 * [Refactorizar código - Jorge Sánchez Fernández](https://xurxodev.com/refactorizar-codigo/)
 * [Diego y María - Factoriaf5/ramdomShop-kata](https://github.com/diegoFactoriaf5/ramdomShop-kata)
+
+# If you have lost your !purchase¡, you will not find the way out anyway 
+
+## Follow me to the next level: 
+
+1º In the repo you will find two branches, one, "do_they_ask", with the original code in which we have added the client's request about the new spider product and the modifications of the others.
+
+2º In the main branch is the refactored code used method extraction, with a half boolean condition check before carrying the method call.
