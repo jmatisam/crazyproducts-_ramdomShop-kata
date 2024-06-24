@@ -1,5 +1,14 @@
 # Welcome to crazy products, don't stop buying today if you were going to buy it tomorrow.
-## Getting Started - TEAM4 DevOps F5 
+## Getting Started - TEAM4 DevOps F5  Disclaimer ;) 
+
+## I have made two branches for the Kata, 1º do_they_ask, contains Develop programming, that is what the Client requested.
+
+## The 2nd branch, the main, has the refactoring code. 
+
+## 3º I've put my mind to it and I'm making a miniweb for the store;)
+
+-------------------------------------------------------------
+## Objectives exercise:
 
 Are you now IN Random Shop! Our previous programmer, Mariano, has left the company to set up his own startup selling motorcycles using blockchain. Luckily, we have been able to hire you to continue working on our sales system
 
